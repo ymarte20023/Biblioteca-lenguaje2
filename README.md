@@ -1,4 +1,4 @@
-# Lenguaje2-Laboratorio-AlanysArcaya
+# Lenguaje2-Laboratorio1-AlanysArcaya
 **Profesor:** Alonzo Centeno
 **Fecha de creación:** 14/11/2025
 **Estudiante:** Alanys Arcaya
