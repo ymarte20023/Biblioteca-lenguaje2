@@ -12,7 +12,7 @@
     <h2>Resgistrase</h2>
         <form>
             <label>Nombre de Usuario</label>
-            <input type="text" name="fullname" ide="fullname">
+            <input type="text" name="fullname" id="fullname">
 
             <label>Correo electronico</label>
             <input type="email" id="email" name="email">
