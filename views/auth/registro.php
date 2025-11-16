@@ -9,8 +9,8 @@
 <body>
     <!--1.2 Formulario de registro-->
     <div class="form">
-    <h2>Resgistrase</h2>
-        <form>
+        <h2>Resgistrase</h2>
+        <form action="" method="post">
             <label>Nombre de Usuario</label>
             <input type="text" name="fullname" id="fullname">
 

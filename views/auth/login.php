@@ -10,7 +10,7 @@
     <!--1.1 Formulario de Inicio de seccion-->
    <div class="form">
         <h2>Inicio de Seccion</h2>
-        <form>
+        <form action="" method="post">
             <label>Correo electronico</label>
             <input type="email" id="email" name="email">
 
