@@ -10,9 +10,9 @@
     <!--1.2 Formulario de registro-->
     <div class="form">
         <h2>Resgistrase</h2>
-        <form action="" method="post">
-            <label>Nombre de Usuario</label>
-            <input type="text" name="fullname" id="fullname">
+        <form action="" method="post" name="registro">
+            <label>Nombre</label>
+            <input type="text" name="fullname" id="fullname" placeholder="Ingrese su nombre completo" required=>
 
             <label>Correo electronico</label>
             <input type="email" id="email" name="email">

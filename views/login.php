@@ -10,9 +10,9 @@
     <!--1.1 Formulario de Inicio de seccion-->
    <div class="form">
         <h2>Inicio de Seccion</h2>
-        <form action="" method="post">
+        <form action="" method="post" name="login">
             <label>Correo electronico</label>
-            <input type="email" id="email" name="email">
+            <input type="email" id="email" name="email"placeholder="Ingrese su correo electronico">
 
             <label>Contraseña</label>
             <input type="password" id="pwd" name="pwd" required="Contraseña">
